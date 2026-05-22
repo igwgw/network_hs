@@ -6,4 +6,5 @@
 
 #define L2_ARQ_MAXRETRANSMISSION        10
 #define L2_ARQ_MAXWAITTIME              5
-#define L2_ARQ_MINWAITTIME              2#define L1_FREQCHANNEL					1 // x 1MHz
+#define L2_ARQ_MINWAITTIME              2
+#define L1_FREQCHANNEL					2 // x 1MHz
